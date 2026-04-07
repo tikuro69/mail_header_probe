@@ -139,7 +139,6 @@ INFO: Private IP addresses found in Received chain: 10.0.0.5
 
 ## Future improvements
 
-* Colorized output for findings
 * Better filtering of noisy domain candidates
 * Optional JSON output
 * More precise extraction of originating sender
