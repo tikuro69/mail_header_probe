@@ -1,0 +1,10 @@
+From: "Amazon Support" <support@amazon.co.jp>
+Return-Path: <bounce@random-mail.xyz>
+Reply-To: payment-confirm@cheap-alert.ru
+Message-ID: <9988776655@random-mail.xyz>
+Subject: Urgent: Confirm your account now
+Date: Tue, 7 Apr 2026 03:12:10 +0000
+Authentication-Results: mx.example.jp; spf=fail smtp.mailfrom=random-mail.xyz; dkim=none; dmarc=fail header.from=amazon.co.jp
+Received-SPF: fail (mx.example.jp: domain of random-mail.xyz does not designate 203.0.113.55 as permitted sender) receiver=mx.example.jp; client-ip=203.0.113.55;
+Received: from unknown-node.random-mail.xyz (unknown-node.random-mail.xyz [203.0.113.55]) by mx.example.jp with ESMTP id zzz999 for <user@example.jp>; Tue, 7 Apr 2026 12:12:12 +0900
+Received: from [10.0.0.5] (unknown [10.0.0.5]) by unknown-node.random-mail.xyz with SMTP id yyy888; Tue, 7 Apr 2026 03:12:09 +0000
